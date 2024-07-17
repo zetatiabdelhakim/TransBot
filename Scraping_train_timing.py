@@ -126,8 +126,17 @@ try:
     trains = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".ant-col.ant-col-24.trips-wrapper"))
     )
-    for train in trains:
-        print(train.text + "\n\n ------------------------------------------------------")
+    for i, train in enumerate(trains):
+        print(f"Train - {i} --------------------------------")
+        durations = train.find_elements(By.CSS_SELECTOR, '.duration-label')
+        trips = train.find_elements(By.CSS_SELECTOR, '.TripCardFooter_timeline_info_label')
+
+        for duration, trip in zip(durations, trips):
+            print(f"duration: {duration.text} ---> trip : {trip.text}")
+
+        price = train.find_elements(By.CSS_SELECTOR, 'label.price')
+        print(f"price : {price[0].text}\n\n")
+
 finally:
     driver.quit()
 
