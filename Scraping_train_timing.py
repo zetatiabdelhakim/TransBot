@@ -1,18 +1,10 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-import time
-from datetime import datetime
-
 # Initialize WebDriver
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
 driver.get("https://www.oncf.ma/fr/")
+gare_depart = "TANGER"
+gare_darrive = "AGADIR (SUPRAT.)"
 
 try:
     div_inputs = WebDriverWait(driver, 10).until(
@@ -34,7 +26,7 @@ try:
     )
 
     for li in li_elements:
-        if "TANGER" in li.text:
+        if gare_depart in li.text:
             li.click()
             break
     """
@@ -58,7 +50,7 @@ try:
     )
 
     for li in li_elements:
-        if "AGADIR (SUPRAT.)" in li.text:
+        if gare_darrive in li.text:
             li.click()
             break
 
@@ -126,13 +118,30 @@ try:
     trains = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".ant-col.ant-col-24.trips-wrapper"))
     )
+    print(f"Gare de départ : {gare_depart}")
+    print(f"Gare d'arrivée : {gare_darrive} \n\n")
     for i, train in enumerate(trains):
         print(f"Train - {i} --------------------------------")
         durations = train.find_elements(By.CSS_SELECTOR, '.duration-label')
         trips = train.find_elements(By.CSS_SELECTOR, '.TripCardFooter_timeline_info_label')
 
-        for duration, trip in zip(durations, trips):
-            print(f"duration: {duration.text} ---> trip : {trip.text}")
+        heure_depart = durations[0].text
+        heure_arrivee = durations[-1].text
+        print(f"Heure de départ : {heure_depart}")
+        print(f"Heure d'arrivée : {heure_arrivee}")
+
+        corr_i = 1
+
+        for duration, trip in zip(durations[1:-1], trips[1:-1]):
+            heures = duration.text.split('\n')
+            heure_corr1, heure_corr2 = heures
+
+            infos_trajet = trip.text.split('\n')
+            gare_correspendance = infos_trajet[0]
+            duree_corr = infos_trajet[2]
+            print(f"correspondance {corr_i} : {heure_corr1} à {gare_correspendance} - correspondance {duree_corr} - départ {heure_corr2}")
+            corr_i += 1
+            
 
         price = train.find_elements(By.CSS_SELECTOR, 'label.price')
         print(f"price : {price[0].text}\n\n")
