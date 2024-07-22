@@ -4,7 +4,7 @@ import csv
 
 class ScrapeDay:
     def __init__(self, states, file_name, date):
-        self.all_states = a = ["ADDAKHLA SUPRATOURS", "AGADIR (SUPRAT.)", "BENGUERIR", 'CASA PORT', 'CASA VOYAGEURS', 'EL JADIDA', 'ESSAOUIRA SUPRATOURS', 'FES', 'GUELMIMA', 'KENITRA', 'KHOURIBGA', 'LAAYOUNE SUPRATOURS', 'MARRAKECH', 'MARTIL', 'MEKNES','MIDELT (SUPRAT.)', 'MOHAMMEDIA', 'OUJDA', 'TETOUAN SUPRATOURS', 'RABAT AGDAL', 'RABAT VILLE', 'SAFI', 'SALE', 'SETTAT', 'TANGER',]
+        self.all_states = ["ADDAKHLA SUPRATOURS", "AGADIR (SUPRAT.)", "BENGUERIR", 'CASA PORT', 'CASA VOYAGEURS', 'EL JADIDA', 'ESSAOUIRA SUPRATOURS', 'FES', 'GUELMIMA', 'KENITRA', 'KHOURIBGA', 'LAAYOUNE SUPRATOURS', 'MARRAKECH', 'MARTIL', 'MEKNES','MIDELT (SUPRAT.)', 'MOHAMMEDIA', 'OUJDA', 'TETOUAN SUPRATOURS', 'RABAT AGDAL', 'RABAT VILLE', 'SAFI', 'SALE', 'SETTAT', 'TANGER',]
         self.header = ["gare de depart", "gare d'arrivee", "date de voyage",
                        "heure de depart", "heure d'arrivee", "prix",
                        "correspondance 1", "correspondance 2",
