@@ -1,9 +1,23 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+import time
+from datetime import datetime
+from collections import defaultdict
+
+
 # Initialize WebDriver
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
 driver.get("https://www.oncf.ma/fr/")
 gare_depart = "TANGER"
+date_to_scrape = "20/07/2024"
+
 gare_darrive = "AGADIR (SUPRAT.)"
 
 try:
@@ -74,8 +88,7 @@ try:
     )
 
     date.click()
-    time.sleep(2)
-    date_to_scrape = "20/07/2024"
+    time.sleep(1)
     # we are assuming that we are scraping the current month or the next one
     now = datetime.now()
     current_month = now.month
@@ -101,50 +114,72 @@ try:
         EC.presence_of_element_located(
             (By.CSS_SELECTOR, ".ant-btn.css-osurd.ant-btn-primary.DatePickerModal_confirm"))
     ).click()
-    time.sleep(2)
+    time.sleep(1)
     WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".ant-btn.css-osurd.ant-btn-round.ant-btn-default.btn-primary"))
     )[1].click()
-    time.sleep(5)
+    time.sleep(1)
     # title  ["depart", "arrive", "date_depart", "date_arrive", "prix", "dure", "trajet"] "18:00 - gare - 18:30 > 19:00 - gare"
 
-    down_buttons = WebDriverWait(driver, 10).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".anticon.anticon-down"))
-    )
-    for b in down_buttons[:-1:2]:
-        b.click()
-        time.sleep(3)
-
-    trains = WebDriverWait(driver, 10).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".ant-col.ant-col-24.trips-wrapper"))
-    )
+    print(f"Date : {date_to_scrape}")
     print(f"Gare de départ : {gare_depart}")
     print(f"Gare d'arrivée : {gare_darrive} \n\n")
-    for i, train in enumerate(trains):
-        print(f"Train - {i} --------------------------------")
-        durations = train.find_elements(By.CSS_SELECTOR, '.duration-label')
-        trips = train.find_elements(By.CSS_SELECTOR, '.TripCardFooter_timeline_info_label')
 
-        heure_depart = durations[0].text
-        heure_arrivee = durations[-1].text
-        print(f"Heure de départ : {heure_depart}")
-        print(f"Heure d'arrivée : {heure_arrivee}")
+    visited = defaultdict(bool)
+    some_thing_new = True
+    count = 1
+    while some_thing_new:
+        some_thing_new = False
 
-        corr_i = 1
+        down_buttons = WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".anticon.anticon-down"))
+        )
+        for b in down_buttons[:-1:2]:
+            b.click()
+            time.sleep(1)
 
-        for duration, trip in zip(durations[1:-1], trips[1:-1]):
-            heures = duration.text.split('\n')
-            heure_corr1, heure_corr2 = heures
+        trains = WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".ant-col.ant-col-24.trips-wrapper"))
+        )
 
-            infos_trajet = trip.text.split('\n')
-            gare_correspendance = infos_trajet[0]
-            duree_corr = infos_trajet[2]
-            print(f"correspondance {corr_i} : {heure_corr1} à {gare_correspendance} - correspondance {duree_corr} - départ {heure_corr2}")
-            corr_i += 1
-            
+        for i, train in enumerate(trains):
+            durations = train.find_elements(By.CSS_SELECTOR, '.duration-label')
+            trips = train.find_elements(By.CSS_SELECTOR, '.TripCardFooter_timeline_info_label')
 
-        price = train.find_elements(By.CSS_SELECTOR, 'label.price')
-        print(f"price : {price[0].text}\n\n")
+            if visited[durations[0].text]:
+                continue
+            else:
+                visited[durations[0].text] = True
+                some_thing_new = True
+
+            print(f"Train - {count} --------------------------------")
+            correspondances = []
+            count += 1
+            heure_depart = durations[0].text
+            heure_arrivee = durations[-1].text
+
+            corr_i = 1
+
+            for duration, trip in zip(durations[1:-1], trips[1:-1]):
+                heures = duration.text.split('\n')
+                heure_corr1, heure_corr2 = heures
+
+                infos_trajet = trip.text.split('\n')
+                gare_correspendance = infos_trajet[0]
+                duree_corr = infos_trajet[2]
+                correspondance = f"correspondance {corr_i} : {heure_corr1} à {gare_correspendance} - correspondance {duree_corr} - départ {heure_corr2}"
+                correspondances.append(correspondance)
+
+
+            price = train.find_elements(By.CSS_SELECTOR, 'label.price')[0].text
+
+            print(correspondances)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, ".CustomLink--default.trip-cta-next-trains"))
+        ).click()
+        time.sleep(1)
+
 
 finally:
     driver.quit()
