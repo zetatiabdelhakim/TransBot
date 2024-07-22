@@ -146,10 +146,12 @@ class Train:
                         while some_thing_new:
                                 some_thing_new = False
 
+                                time.sleep(2)
                                 down_buttons = WebDriverWait(driver, 10).until(
                                         EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".anticon.anticon-down"))
                                 )
                                 time.sleep(2)
+
                                 for b in down_buttons[:-1:2]:
                                         b.click()
                                         time.sleep(1)
@@ -216,4 +218,4 @@ class Train:
 
 if __name__ == "__main__":
         train = Train("SETTAT", "TANGER")
-        train.scrape_day("23/07/2024")
+        train.scrape_day("25/07/2024")

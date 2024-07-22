@@ -4,10 +4,10 @@ import csv
 
 class ScrapeDay:
     def __init__(self, states, file_name, date):
-        self.header = ["gare de depart", "gare d'arrivee","date de voyage",
+        self.header = ["gare de depart", "gare d'arrivee", "date de voyage",
                        "heure de depart", "heure d'arrivee", "prix",
                        "correspondance 1", "correspondance 2",
-                       "correspondance 3","correspondance 4"]
+                       "correspondance 3", "correspondance 4"]
 
         self.file = file_name
         self.date = date
