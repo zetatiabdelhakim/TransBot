@@ -1,0 +1,883 @@
+gare de depart,gare d'arrivee,date de voyage,heure de depart,heure d'arrivee,prix,correspondance 1,correspondance 2,correspondance 3,correspondance 4
+MARRAKECH,ADDAKHLA SUPRATOURS,01/08/2024,05h00,06h00,660 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ADDAKHLA SUPRATOURS,01/08/2024,15h30,15h00,660 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ADDAKHLA SUPRATOURS,01/08/2024,21h00,20h30,660 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,05h00,10h14,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,08h30,12h00,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,10h00,13h29,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,11h45,15h14,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,12h45,16h14,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,14h00,17h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,14h45,18h15,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,15h45,19h15,150 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,16h45,20h15,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,18h45,22h15,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,20h00,23h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,21h00,00h28,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,AGADIR (SUPRAT.),01/08/2024,22h45,02h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,04h50,05h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,05h50,06h34,45 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,06h50,07h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,07h50,08h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,08h50,09h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,09h50,10h34,45 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,10h50,11h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,11h50,12h34,45 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,12h50,13h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,13h50,14h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,14h50,15h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,15h50,16h34,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,16h50,17h34,45 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,17h50,18h34,45 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,BENGUERIR,01/08/2024,19h00,19h44,40 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA PORT,01/08/2024,,,,,,,
+MARRAKECH,CASA VOYAGEURS,01/08/2024,04h50,07h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,05h50,08h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,06h50,09h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,07h50,10h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,08h50,11h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,09h50,12h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,10h50,13h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,11h50,14h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,12h50,15h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,13h50,16h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,14h50,17h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,15h50,18h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,16h50,19h28,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,17h50,20h28,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,CASA VOYAGEURS,01/08/2024,19h00,21h38,120 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,05h50,10h10,160 DH,correspondance 1 : 08h20 à Gare Casa Oasis - correspondance 34 Min - départ 08h54,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,07h50,12h05,160 DH,correspondance 1 : 10h20 à Gare Casa Oasis - correspondance 34 Min - départ 10h54,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,09h50,14h05,160 DH,correspondance 1 : 12h20 à Gare Casa Oasis - correspondance 34 Min - départ 12h54,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,11h50,16h08,160 DH,correspondance 1 : 14h20 à Gare Casa Oasis - correspondance 34 Min - départ 14h54,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,13h50,18h07,160 DH,correspondance 1 : 16h20 à Gare Casa Oasis - correspondance 31 Min - départ 16h51,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,14h50,19h05,160 DH,correspondance 1 : 17h20 à Gare Casa Oasis - correspondance 34 Min - départ 17h54,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,15h50,20h10,160 DH,correspondance 1 : 18h20 à Gare Casa Oasis - correspondance 34 Min - départ 18h54,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,EL JADIDA,01/08/2024,16h50,21h00,175 DH,correspondance 1 : 19h20 à Gare Casa Oasis - correspondance 38 Min - départ 19h58,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ESSAOUIRA SUPRATOURS,01/08/2024,07h45,10h45,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ESSAOUIRA SUPRATOURS,01/08/2024,09h00,12h00,125 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ESSAOUIRA SUPRATOURS,01/08/2024,10h45,13h45,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ESSAOUIRA SUPRATOURS,01/08/2024,12h00,15h00,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ESSAOUIRA SUPRATOURS,01/08/2024,14h45,17h45,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ESSAOUIRA SUPRATOURS,01/08/2024,16h45,19h45,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,ESSAOUIRA SUPRATOURS,01/08/2024,19h00,22h00,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,04h50,11h17,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,05h50,12h20,235 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,06h50,13h20,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,07h50,14h20,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,08h50,15h20,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,09h50,16h20,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,10h50,17h22,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,11h50,18h25,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,12h50,19h23,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,13h50,20h25,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,14h50,21h23,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,15h50,22h20,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,16h50,23h20,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,FES,01/08/2024,17h50,00h12,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,GUELMIMA,01/08/2024,08h00,16h59,220 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,04h50,08h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,05h50,09h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,06h50,10h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,07h50,11h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,08h50,12h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,09h50,13h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,10h50,14h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,11h50,15h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,12h50,16h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,13h50,17h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,14h50,18h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,15h50,19h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,16h50,20h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,17h50,21h59,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KENITRA,01/08/2024,19h00,23h09,165 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KHOURIBGA,01/08/2024,05h50,10h43,124 DH,correspondance 1 : 07h58 à Gare BERRECHID - correspondance 50 Min - départ 08h48,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,KHOURIBGA,01/08/2024,16h50,21h51,133 DH,correspondance 1 : 18h58 à Gare BERRECHID - correspondance 55 Min - départ 19h53,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,LAAYOUNE SUPRATOURS,01/08/2024,05h00,21h59,480 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,LAAYOUNE SUPRATOURS,01/08/2024,15h30,07h14,480 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,LAAYOUNE SUPRATOURS,01/08/2024,19h00,09h00,480 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,LAAYOUNE SUPRATOURS,01/08/2024,21h00,11h29,480 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,LAAYOUNE SUPRATOURS,01/08/2024,23h00,12h30,480 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MARTIL,01/08/2024,04h50,12h00,405 DH,correspondance 1 : 07h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 08h00,correspondance 2 : 10h10 à Gare TANGER VILLE - correspondance 20 Min - départ 10h30,pas de correspondance,pas de correspondance
+MARRAKECH,MARTIL,01/08/2024,06h50,14h00,405 DH,correspondance 1 : 09h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 10h00,correspondance 2 : 12h10 à Gare TANGER VILLE - correspondance 20 Min - départ 12h30,pas de correspondance,pas de correspondance
+MARRAKECH,MARTIL,01/08/2024,08h50,16h00,385 DH,correspondance 1 : 11h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 12h00,correspondance 2 : 14h10 à Gare TANGER VILLE - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance
+MARRAKECH,MARTIL,01/08/2024,10h50,18h00,405 DH,correspondance 1 : 13h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 14h00,correspondance 2 : 16h10 à Gare TANGER VILLE - correspondance 20 Min - départ 16h30,pas de correspondance,pas de correspondance
+MARRAKECH,MARTIL,01/08/2024,13h50,21h00,405 DH,correspondance 1 : 16h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 17h00,correspondance 2 : 19h10 à Gare TANGER VILLE - correspondance 20 Min - départ 19h30,pas de correspondance,pas de correspondance
+MARRAKECH,MARTIL,01/08/2024,15h50,23h00,385 DH,correspondance 1 : 18h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 19h00,correspondance 2 : 21h10 à Gare TANGER VILLE - correspondance 20 Min - départ 21h30,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,04h50,10h37,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,05h50,11h40,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,06h50,12h37,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,07h50,13h40,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,08h50,14h37,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,09h50,15h40,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,10h50,16h37,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,11h50,17h40,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,12h50,18h40,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,13h50,19h40,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,14h50,20h37,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,15h50,21h40,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,16h50,22h37,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MEKNES,01/08/2024,17h50,23h34,180 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+MARRAKECH,MOHAMMEDIA,01/08/2024,04h50,07h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,05h50,08h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,06h50,09h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,07h50,10h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,08h50,11h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,09h50,12h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,10h50,13h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,11h50,14h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,12h50,15h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,13h50,16h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,14h50,17h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,15h50,18h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,16h50,19h48,142 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,17h50,20h48,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,MOHAMMEDIA,01/08/2024,19h00,21h58,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,04h50,10h57,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,06h50,13h00,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,08h50,14h58,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,10h50,17h00,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,11h50,18h03,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,12h50,19h01,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,14h50,21h01,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,OUJDA,01/08/2024,16h50,22h58,187 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TETOUAN SUPRATOURS,01/08/2024,04h50,11h29,400 DH,correspondance 1 : 07h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 08h00,correspondance 2 : 10h10 à Gare TANGER VILLE - correspondance 20 Min - départ 10h30,pas de correspondance,pas de correspondance
+MARRAKECH,TETOUAN SUPRATOURS,01/08/2024,06h50,13h29,400 DH,correspondance 1 : 09h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 10h00,correspondance 2 : 12h10 à Gare TANGER VILLE - correspondance 20 Min - départ 12h30,pas de correspondance,pas de correspondance
+MARRAKECH,TETOUAN SUPRATOURS,01/08/2024,08h50,15h29,380 DH,correspondance 1 : 11h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 12h00,correspondance 2 : 14h10 à Gare TANGER VILLE - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance
+MARRAKECH,TETOUAN SUPRATOURS,01/08/2024,10h50,17h29,400 DH,correspondance 1 : 13h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 14h00,correspondance 2 : 16h10 à Gare TANGER VILLE - correspondance 20 Min - départ 16h30,pas de correspondance,pas de correspondance
+MARRAKECH,TETOUAN SUPRATOURS,01/08/2024,13h50,20h09,400 DH,correspondance 1 : 16h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 17h00,correspondance 2 : 19h10 à Gare TANGER VILLE - correspondance 20 Min - départ 19h30,pas de correspondance,pas de correspondance
+MARRAKECH,TETOUAN SUPRATOURS,01/08/2024,15h50,22h29,380 DH,correspondance 1 : 18h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 19h00,correspondance 2 : 21h10 à Gare TANGER VILLE - correspondance 20 Min - départ 21h30,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT AGDAL,01/08/2024,,,,,,,
+MARRAKECH,RABAT VILLE,01/08/2024,04h50,08h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,05h50,09h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,06h50,10h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,07h50,11h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,08h50,12h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,09h50,13h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,10h50,14h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,11h50,15h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,12h50,16h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,13h50,17h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,14h50,18h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,15h50,19h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,16h50,20h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,17h50,21h24,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,RABAT VILLE,01/08/2024,19h00,22h34,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SAFI,01/08/2024,,,,,,,
+MARRAKECH,SALE,01/08/2024,04h50,08h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,05h50,09h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,06h50,10h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,07h50,11h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,08h50,12h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,09h50,13h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,10h50,14h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,11h50,15h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,12h50,16h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,13h50,17h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,14h50,18h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,15h50,19h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,16h50,20h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,17h50,21h36,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SALE,01/08/2024,19h00,22h46,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,04h50,06h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,05h50,07h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,06h50,08h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,07h50,09h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,08h50,10h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,09h50,11h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,10h50,12h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,11h50,13h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,12h50,14h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,13h50,15h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,14h50,16h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,15h50,17h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,16h50,18h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,17h50,19h38,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,SETTAT,01/08/2024,19h00,20h48,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,04h50,10h10,345 DH,correspondance 1 : 07h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 08h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,05h50,11h10,345 DH,correspondance 1 : 08h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 09h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,06h50,12h10,345 DH,correspondance 1 : 09h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 10h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,07h50,13h10,345 DH,correspondance 1 : 10h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 11h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,08h50,14h10,325 DH,correspondance 1 : 11h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 12h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,09h50,17h39,246 DH,correspondance 1 : 13h59 à Gare KENITRA - correspondance 26 Min - départ 14h25,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,10h50,16h10,345 DH,correspondance 1 : 13h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 14h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,11h50,17h10,325 DH,correspondance 1 : 14h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 15h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,12h50,18h10,325 DH,correspondance 1 : 15h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 16h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,13h50,19h10,345 DH,correspondance 1 : 16h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 17h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,15h50,21h10,325 DH,correspondance 1 : 18h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARRAKECH,TANGER,01/08/2024,16h50,22h10,360 DH,correspondance 1 : 19h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 20h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,ADDAKHLA SUPRATOURS,01/08/2024,05h45,15h00,1045 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 10h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 10h35,correspondance 3 : 13h14 à Gare MARRAKECH - correspondance 02h16 Min - départ 15h30,pas de correspondance
+MARTIL,AGADIR (SUPRAT.),01/08/2024,05h45,18h15,520 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 10h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 10h35,correspondance 3 : 13h14 à Gare MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance
+MARTIL,BENGUERIR,01/08/2024,05h45,12h30,350 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 10h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 10h35,pas de correspondance,pas de correspondance
+MARTIL,BENGUERIR,01/08/2024,09h45,16h30,350 DH,correspondance 1 : 11h25 à Gare TANGER VILLE - correspondance 35 Min - départ 12h00,correspondance 2 : 14h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 14h35,pas de correspondance,pas de correspondance
+MARTIL,BENGUERIR,01/08/2024,11h45,18h30,370 DH,correspondance 1 : 13h25 à Gare TANGER VILLE - correspondance 35 Min - départ 14h00,correspondance 2 : 16h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 16h35,pas de correspondance,pas de correspondance
+MARTIL,BENGUERIR,01/08/2024,13h45,20h30,360 DH,correspondance 1 : 15h25 à Gare TANGER VILLE - correspondance 35 Min - départ 16h00,correspondance 2 : 18h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 18h35,pas de correspondance,pas de correspondance
+MARTIL,BENGUERIR,01/08/2024,15h45,22h30,380 DH,correspondance 1 : 17h25 à Gare TANGER VILLE - correspondance 35 Min - départ 18h00,correspondance 2 : 20h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 20h35,pas de correspondance,pas de correspondance
+MARTIL,CASA PORT,01/08/2024,,,,,,,
+MARTIL,CASA VOYAGEURS,01/08/2024,,,,,,,
+MARTIL,EL JADIDA,01/08/2024,,,,,,,
+MARTIL,ESSAOUIRA SUPRATOURS,01/08/2024,,,,,,,
+MARTIL,FES,01/08/2024,05h45,11h17,270 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 08h50 à Gare KENITRA - correspondance 12 Min - départ 09h02,pas de correspondance,pas de correspondance
+MARTIL,FES,01/08/2024,09h45,15h20,270 DH,correspondance 1 : 11h25 à Gare TANGER VILLE - correspondance 35 Min - départ 12h00,correspondance 2 : 12h50 à Gare KENITRA - correspondance 12 Min - départ 13h02,pas de correspondance,pas de correspondance
+MARTIL,FES,01/08/2024,11h45,17h22,270 DH,correspondance 1 : 13h25 à Gare TANGER VILLE - correspondance 35 Min - départ 14h00,correspondance 2 : 14h50 à Gare KENITRA - correspondance 12 Min - départ 15h02,pas de correspondance,pas de correspondance
+MARTIL,FES,01/08/2024,13h45,19h23,270 DH,correspondance 1 : 15h25 à Gare TANGER VILLE - correspondance 35 Min - départ 16h00,correspondance 2 : 16h50 à Gare KENITRA - correspondance 12 Min - départ 17h02,pas de correspondance,pas de correspondance
+MARTIL,FES,01/08/2024,15h45,21h23,270 DH,correspondance 1 : 17h25 à Gare TANGER VILLE - correspondance 35 Min - départ 18h00,correspondance 2 : 18h50 à Gare KENITRA - correspondance 12 Min - départ 19h02,pas de correspondance,pas de correspondance
+MARTIL,FES,01/08/2024,17h45,23h20,270 DH,correspondance 1 : 19h25 à Gare TANGER VILLE - correspondance 35 Min - départ 20h00,correspondance 2 : 20h50 à Gare KENITRA - correspondance 12 Min - départ 21h02,pas de correspondance,pas de correspondance
+MARTIL,GUELMIMA,01/08/2024,,,,,,,
+MARTIL,KENITRA,01/08/2024,05h45,08h50,190 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,KENITRA,01/08/2024,09h45,12h50,190 DH,correspondance 1 : 11h25 à Gare TANGER VILLE - correspondance 35 Min - départ 12h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,KENITRA,01/08/2024,11h45,14h50,200 DH,correspondance 1 : 13h25 à Gare TANGER VILLE - correspondance 35 Min - départ 14h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,KENITRA,01/08/2024,13h45,16h50,190 DH,correspondance 1 : 15h25 à Gare TANGER VILLE - correspondance 35 Min - départ 16h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,KENITRA,01/08/2024,15h45,18h50,200 DH,correspondance 1 : 17h25 à Gare TANGER VILLE - correspondance 35 Min - départ 18h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,KENITRA,01/08/2024,17h45,20h50,200 DH,correspondance 1 : 19h25 à Gare TANGER VILLE - correspondance 35 Min - départ 20h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,KHOURIBGA,01/08/2024,,,,,,,
+MARTIL,LAAYOUNE SUPRATOURS,01/08/2024,05h45,07h14,865 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 10h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 10h35,correspondance 3 : 13h14 à Gare MARRAKECH - correspondance 02h16 Min - départ 15h30,pas de correspondance
+MARTIL,MARRAKECH,01/08/2024,05h45,13h14,385 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 10h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 10h35,pas de correspondance,pas de correspondance
+MARTIL,MARRAKECH,01/08/2024,09h45,17h14,385 DH,correspondance 1 : 11h25 à Gare TANGER VILLE - correspondance 35 Min - départ 12h00,correspondance 2 : 14h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 14h35,pas de correspondance,pas de correspondance
+MARTIL,MARRAKECH,01/08/2024,11h45,19h14,405 DH,correspondance 1 : 13h25 à Gare TANGER VILLE - correspondance 35 Min - départ 14h00,correspondance 2 : 16h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 16h35,pas de correspondance,pas de correspondance
+MARTIL,MARRAKECH,01/08/2024,13h45,21h14,385 DH,correspondance 1 : 15h25 à Gare TANGER VILLE - correspondance 35 Min - départ 16h00,correspondance 2 : 18h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 18h35,pas de correspondance,pas de correspondance
+MARTIL,MARRAKECH,01/08/2024,15h45,23h14,405 DH,correspondance 1 : 17h25 à Gare TANGER VILLE - correspondance 35 Min - départ 18h00,correspondance 2 : 20h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 20h35,pas de correspondance,pas de correspondance
+MARTIL,MEKNES,01/08/2024,05h45,10h37,250 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 08h50 à Gare KENITRA - correspondance 12 Min - départ 09h02,pas de correspondance,pas de correspondance
+MARTIL,MEKNES,01/08/2024,09h45,14h37,250 DH,correspondance 1 : 11h25 à Gare TANGER VILLE - correspondance 35 Min - départ 12h00,correspondance 2 : 12h50 à Gare KENITRA - correspondance 12 Min - départ 13h02,pas de correspondance,pas de correspondance
+MARTIL,MEKNES,01/08/2024,11h45,16h37,260 DH,correspondance 1 : 13h25 à Gare TANGER VILLE - correspondance 35 Min - départ 14h00,correspondance 2 : 14h50 à Gare KENITRA - correspondance 12 Min - départ 15h02,pas de correspondance,pas de correspondance
+MARTIL,MEKNES,01/08/2024,13h45,18h40,250 DH,correspondance 1 : 15h25 à Gare TANGER VILLE - correspondance 35 Min - départ 16h00,correspondance 2 : 16h50 à Gare KENITRA - correspondance 12 Min - départ 17h02,pas de correspondance,pas de correspondance
+MARTIL,MEKNES,01/08/2024,15h45,20h37,260 DH,correspondance 1 : 17h25 à Gare TANGER VILLE - correspondance 35 Min - départ 18h00,correspondance 2 : 18h50 à Gare KENITRA - correspondance 12 Min - départ 19h02,pas de correspondance,pas de correspondance
+MARTIL,MEKNES,01/08/2024,17h45,22h37,260 DH,correspondance 1 : 19h25 à Gare TANGER VILLE - correspondance 35 Min - départ 20h00,correspondance 2 : 20h50 à Gare KENITRA - correspondance 12 Min - départ 21h02,pas de correspondance,pas de correspondance
+MARTIL,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+MARTIL,MOHAMMEDIA,01/08/2024,,,,,,,
+MARTIL,OUJDA,01/08/2024,05h45,10h57,262 DH,correspondance 1 : 07h25 à Gare TANGER VILLE - correspondance 35 Min - départ 08h00,correspondance 2 : 08h50 à Gare KENITRA - correspondance 12 Min - départ 09h02,pas de correspondance,pas de correspondance
+MARTIL,OUJDA,01/08/2024,09h45,14h58,262 DH,correspondance 1 : 11h25 à Gare TANGER VILLE - correspondance 35 Min - départ 12h00,correspondance 2 : 12h50 à Gare KENITRA - correspondance 12 Min - départ 13h02,pas de correspondance,pas de correspondance
+MARTIL,OUJDA,01/08/2024,11h45,17h00,268 DH,correspondance 1 : 13h25 à Gare TANGER VILLE - correspondance 35 Min - départ 14h00,correspondance 2 : 14h50 à Gare KENITRA - correspondance 12 Min - départ 15h02,pas de correspondance,pas de correspondance
+MARTIL,OUJDA,01/08/2024,13h45,19h01,262 DH,correspondance 1 : 15h25 à Gare TANGER VILLE - correspondance 35 Min - départ 16h00,correspondance 2 : 16h50 à Gare KENITRA - correspondance 12 Min - départ 17h02,pas de correspondance,pas de correspondance
+MARTIL,OUJDA,01/08/2024,15h45,21h01,268 DH,correspondance 1 : 17h25 à Gare TANGER VILLE - correspondance 35 Min - départ 18h00,correspondance 2 : 18h50 à Gare KENITRA - correspondance 12 Min - départ 19h02,pas de correspondance,pas de correspondance
+MARTIL,OUJDA,01/08/2024,17h45,22h58,268 DH,correspondance 1 : 19h25 à Gare TANGER VILLE - correspondance 35 Min - départ 20h00,correspondance 2 : 20h50 à Gare KENITRA - correspondance 12 Min - départ 21h02,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,05h40,06h09,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,05h45,06h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,07h45,08h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,09h45,10h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,11h45,12h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,13h45,14h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,14h45,15h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,15h45,16h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TETOUAN SUPRATOURS,01/08/2024,17h45,18h14,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,RABAT AGDAL,01/08/2024,05h40,09h20,265 DH,correspondance 1 : 06h50 à Gare TANGER VILLE - correspondance 01h10 Min - départ 08h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,RABAT AGDAL,01/08/2024,07h45,11h20,265 DH,correspondance 1 : 09h25 à Gare TANGER VILLE - correspondance 35 Min - départ 10h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,RABAT AGDAL,01/08/2024,13h45,17h20,265 DH,correspondance 1 : 15h25 à Gare TANGER VILLE - correspondance 35 Min - départ 16h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,RABAT AGDAL,01/08/2024,14h45,18h20,265 DH,correspondance 1 : 16h25 à Gare TANGER VILLE - correspondance 35 Min - départ 17h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,RABAT AGDAL,01/08/2024,15h45,19h20,265 DH,correspondance 1 : 17h25 à Gare TANGER VILLE - correspondance 35 Min - départ 18h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,RABAT AGDAL,01/08/2024,17h45,21h20,265 DH,correspondance 1 : 19h25 à Gare TANGER VILLE - correspondance 35 Min - départ 20h00,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,RABAT VILLE,01/08/2024,01h00,10h00,161 DH,correspondance 1 : 06h19 à Gare TANGER VILLE - correspondance 02h11 Min - départ 08h30,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,SAFI,01/08/2024,,,,,,,
+MARTIL,SALE,01/08/2024,01h13,10h00,161 DH,correspondance 1 : 06h19 à Gare TANGER VILLE - correspondance 02h11 Min - départ 08h30,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,SETTAT,01/08/2024,05h40,11h58,365 DH,correspondance 1 : 06h50 à Gare TANGER VILLE - correspondance 01h10 Min - départ 08h00,correspondance 2 : 10h10 à Gare CASA VOYAGEURS - correspondance 43 Min - départ 10h53,pas de correspondance,pas de correspondance
+MARTIL,SETTAT,01/08/2024,07h45,13h58,365 DH,correspondance 1 : 09h25 à Gare TANGER VILLE - correspondance 35 Min - départ 10h00,correspondance 2 : 12h10 à Gare CASA VOYAGEURS - correspondance 43 Min - départ 12h53,pas de correspondance,pas de correspondance
+MARTIL,TANGER,01/08/2024,05h40,06h50,60 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TANGER,01/08/2024,07h45,09h25,60 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TANGER,01/08/2024,13h45,15h25,60 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TANGER,01/08/2024,14h45,16h25,60 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TANGER,01/08/2024,15h45,17h25,60 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MARTIL,TANGER,01/08/2024,17h45,19h25,60 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,ADDAKHLA SUPRATOURS,01/08/2024,14h17,20h30,875 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,AGADIR (SUPRAT.),01/08/2024,06h17,16h14,335 DH,correspondance 1 : 12h14 à Gare MARRAKECH - correspondance 31 Min - départ 12h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,AGADIR (SUPRAT.),01/08/2024,07h17,18h15,335 DH,correspondance 1 : 13h14 à Gare MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,AGADIR (SUPRAT.),01/08/2024,09h17,19h15,350 DH,correspondance 1 : 15h14 à Gare MARRAKECH - correspondance 31 Min - départ 15h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,AGADIR (SUPRAT.),01/08/2024,10h17,20h15,335 DH,correspondance 1 : 16h14 à Gare MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,AGADIR (SUPRAT.),01/08/2024,12h17,22h15,350 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 31 Min - départ 18h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,AGADIR (SUPRAT.),01/08/2024,14h17,00h28,350 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,AGADIR (SUPRAT.),01/08/2024,16h17,02h30,350 DH,correspondance 1 : 22h14 à Gare MARRAKECH - correspondance 31 Min - départ 22h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,05h30,10h30,155 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,06h17,11h30,186 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,07h17,12h30,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,08h17,13h30,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,09h17,14h30,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,10h17,15h30,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,11h17,16h30,186 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,12h17,17h30,186 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,13h17,18h30,186 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,14h17,19h30,186 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,15h17,20h30,186 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,16h17,21h30,186 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,17h17,22h30,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,BENGUERIR,01/08/2024,18h18,23h30,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA PORT,01/08/2024,,,,,,,
+MEKNES,CASA VOYAGEURS,01/08/2024,03h28,06h50,115 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,04h17,07h46,115 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,06h17,09h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,07h17,10h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,08h17,11h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,09h17,12h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,10h17,13h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,11h17,14h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,12h17,15h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,13h17,16h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,14h17,17h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,15h17,18h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,16h17,19h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,17h17,20h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,18h18,21h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,CASA VOYAGEURS,01/08/2024,19h17,22h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,EL JADIDA,01/08/2024,07h17,12h05,175 DH,correspondance 1 : 10h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 10h44,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,EL JADIDA,01/08/2024,09h17,14h05,175 DH,correspondance 1 : 12h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 12h44,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,EL JADIDA,01/08/2024,11h17,16h08,175 DH,correspondance 1 : 14h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 14h44,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,EL JADIDA,01/08/2024,13h17,18h07,175 DH,correspondance 1 : 16h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 16h44,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,EL JADIDA,01/08/2024,14h17,19h05,175 DH,correspondance 1 : 17h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 17h44,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,EL JADIDA,01/08/2024,15h17,20h10,175 DH,correspondance 1 : 18h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 18h44,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,EL JADIDA,01/08/2024,16h17,21h00,175 DH,correspondance 1 : 19h30 à Gare CASA VOYAGEURS - correspondance 21 Min - départ 19h51,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,ESSAOUIRA SUPRATOURS,01/08/2024,07h17,17h45,300 DH,correspondance 1 : 13h14 à Gare MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,ESSAOUIRA SUPRATOURS,01/08/2024,08h17,17h45,315 DH,correspondance 1 : 14h14 à Gare MARRAKECH - correspondance 31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,ESSAOUIRA SUPRATOURS,01/08/2024,09h17,19h45,300 DH,correspondance 1 : 15h14 à Gare MARRAKECH - correspondance 01h31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,ESSAOUIRA SUPRATOURS,01/08/2024,10h17,19h45,300 DH,correspondance 1 : 16h14 à Gare MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,ESSAOUIRA SUPRATOURS,01/08/2024,12h17,22h00,315 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,00h28,01h03,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,00h49,01h27,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,01h28,01h58,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,02h10,02h47,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,07h25,08h01,33 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,08h47,09h27,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,09h55,10h33,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,10h39,11h17,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,11h18,11h57,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,11h42,12h20,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,12h39,13h20,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,13h42,14h20,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,14h39,15h20,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,15h13,15h51,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,15h42,16h20,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,16h39,17h22,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,17h42,18h25,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,18h13,18h51,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,18h42,19h23,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,FES,01/08/2024,19h42,20h25,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,GUELMIMA,01/08/2024,,,,,,,
+MEKNES,KENITRA,01/08/2024,03h28,05h11,65 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,04h17,06h05,65 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,05h30,06h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,06h17,07h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,07h17,08h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,08h17,09h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,09h17,10h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,10h17,11h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,11h17,12h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,12h17,13h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,13h17,14h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,14h17,15h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,15h17,16h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,16h17,17h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,17h17,18h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,18h18,19h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KENITRA,01/08/2024,19h17,20h57,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KHOURIBGA,01/08/2024,09h17,15h42,172 DH,correspondance 1 : 12h30 à Gare CASA VOYAGEURS - correspondance 40 Min - départ 13h10,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,KHOURIBGA,01/08/2024,15h17,21h51,172 DH,correspondance 1 : 18h30 à Gare CASA VOYAGEURS - correspondance 40 Min - départ 19h10,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,LAAYOUNE SUPRATOURS,01/08/2024,07h17,05h59,680 DH,correspondance 1 : 13h14 à Gare MARRAKECH - correspondance 02h01 Min - départ 15h15,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,LAAYOUNE SUPRATOURS,01/08/2024,08h17,05h59,695 DH,correspondance 1 : 14h14 à Gare MARRAKECH - correspondance 01h01 Min - départ 15h15,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,LAAYOUNE SUPRATOURS,01/08/2024,09h17,06h45,680 DH,correspondance 1 : 15h14 à Gare MARRAKECH - correspondance 01h46 Min - départ 17h00,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,LAAYOUNE SUPRATOURS,01/08/2024,12h17,09h00,695 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,LAAYOUNE SUPRATOURS,01/08/2024,14h17,11h29,695 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,LAAYOUNE SUPRATOURS,01/08/2024,16h17,12h30,695 DH,correspondance 1 : 22h14 à Gare MARRAKECH - correspondance 46 Min - départ 23h00,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,06h17,12h14,200 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,07h17,13h14,200 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,08h17,14h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,09h17,15h14,200 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,10h17,16h14,200 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,11h17,17h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,12h17,18h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,13h17,19h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,14h17,20h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,15h17,21h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,16h17,22h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,17h17,23h14,200 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARRAKECH,01/08/2024,18h18,00h14,200 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,MARTIL,01/08/2024,05h30,10h00,260 DH,correspondance 1 : 06h57 à Gare KENITRA - correspondance 23 Min - départ 07h20,correspondance 2 : 08h10 à Gare TANGER VILLE - correspondance 20 Min - départ 08h30,pas de correspondance,pas de correspondance
+MEKNES,MARTIL,01/08/2024,11h17,16h00,260 DH,correspondance 1 : 12h57 à Gare KENITRA - correspondance 23 Min - départ 13h20,correspondance 2 : 14h10 à Gare TANGER VILLE - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance
+MEKNES,MARTIL,01/08/2024,13h17,18h00,260 DH,correspondance 1 : 14h57 à Gare KENITRA - correspondance 23 Min - départ 15h20,correspondance 2 : 16h10 à Gare TANGER VILLE - correspondance 20 Min - départ 16h30,pas de correspondance,pas de correspondance
+MEKNES,MARTIL,01/08/2024,14h17,19h00,260 DH,correspondance 1 : 15h57 à Gare KENITRA - correspondance 23 Min - départ 16h20,correspondance 2 : 17h10 à Gare TANGER VILLE - correspondance 20 Min - départ 17h30,pas de correspondance,pas de correspondance
+MEKNES,MARTIL,01/08/2024,16h17,21h00,260 DH,correspondance 1 : 17h57 à Gare KENITRA - correspondance 23 Min - départ 18h20,correspondance 2 : 19h10 à Gare TANGER VILLE - correspondance 20 Min - départ 19h30,pas de correspondance,pas de correspondance
+MEKNES,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+MEKNES,MOHAMMEDIA,01/08/2024,,,,,,,
+MEKNES,OUJDA,01/08/2024,07h25,07h45,25 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,08h47,09h09,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,09h55,10h14,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,10h39,10h57,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,11h18,11h40,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,12h39,13h00,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,14h39,14h58,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,15h13,15h34,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,16h39,17h00,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,17h42,18h03,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,18h13,18h34,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,18h42,19h01,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,OUJDA,01/08/2024,20h39,21h01,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TETOUAN SUPRATOURS,01/08/2024,05h30,09h29,255 DH,correspondance 1 : 06h57 à Gare KENITRA - correspondance 23 Min - départ 07h20,correspondance 2 : 08h10 à Gare TANGER VILLE - correspondance 20 Min - départ 08h30,pas de correspondance,pas de correspondance
+MEKNES,TETOUAN SUPRATOURS,01/08/2024,11h17,15h29,255 DH,correspondance 1 : 12h57 à Gare KENITRA - correspondance 23 Min - départ 13h20,correspondance 2 : 14h10 à Gare TANGER VILLE - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance
+MEKNES,TETOUAN SUPRATOURS,01/08/2024,13h17,17h29,255 DH,correspondance 1 : 14h57 à Gare KENITRA - correspondance 23 Min - départ 15h20,correspondance 2 : 16h10 à Gare TANGER VILLE - correspondance 20 Min - départ 16h30,pas de correspondance,pas de correspondance
+MEKNES,TETOUAN SUPRATOURS,01/08/2024,14h17,18h29,255 DH,correspondance 1 : 15h57 à Gare KENITRA - correspondance 23 Min - départ 16h20,correspondance 2 : 17h10 à Gare TANGER VILLE - correspondance 20 Min - départ 17h30,pas de correspondance,pas de correspondance
+MEKNES,TETOUAN SUPRATOURS,01/08/2024,16h17,20h09,255 DH,correspondance 1 : 17h57 à Gare KENITRA - correspondance 23 Min - départ 18h20,correspondance 2 : 19h10 à Gare TANGER VILLE - correspondance 20 Min - départ 19h30,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,03h28,05h55,85 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,04h17,06h46,85 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,05h30,07h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,06h17,08h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,07h17,09h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,08h17,10h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,09h17,11h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,10h17,12h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,11h17,13h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,12h17,14h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,13h17,15h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,14h17,16h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,15h17,17h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,16h17,18h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,17h17,19h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,18h18,20h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT AGDAL,01/08/2024,19h17,21h38,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,03h28,05h49,85 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,04h17,06h40,85 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,05h30,07h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,06h17,08h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,07h17,09h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,08h17,10h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,09h17,11h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,10h17,12h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,11h17,13h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,12h17,14h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,13h17,15h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,14h17,16h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,15h17,17h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,16h17,18h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,17h17,19h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,18h18,20h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,RABAT VILLE,01/08/2024,19h17,21h32,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SAFI,01/08/2024,,,,,,,
+MEKNES,SALE,01/08/2024,03h28,05h38,76 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,04h17,06h29,76 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,05h30,07h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,06h17,08h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,07h17,09h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,08h17,10h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,09h17,11h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,10h17,12h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,11h17,13h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,12h17,14h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,13h17,15h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,14h17,16h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,15h17,17h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,16h17,18h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,17h17,19h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,18h18,20h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SALE,01/08/2024,19h17,21h21,92 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,06h17,10h28,107 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,07h17,11h28,134 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,08h17,12h28,146 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,09h17,13h28,134 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,10h17,14h28,134 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,11h17,15h28,146 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,12h17,16h28,146 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,13h17,17h28,146 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,14h17,18h28,146 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,15h17,19h28,146 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,16h17,20h28,146 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,17h17,21h28,134 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,SETTAT,01/08/2024,18h18,22h28,134 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,05h30,08h10,200 DH,correspondance 1 : 06h57 à Gare KENITRA - correspondance 23 Min - départ 07h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,06h17,09h10,200 DH,correspondance 1 : 07h57 à Gare KENITRA - correspondance 23 Min - départ 08h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,07h17,10h10,200 DH,correspondance 1 : 08h57 à Gare KENITRA - correspondance 23 Min - départ 09h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,08h17,11h10,200 DH,correspondance 1 : 09h57 à Gare KENITRA - correspondance 23 Min - départ 10h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,09h17,12h10,200 DH,correspondance 1 : 10h57 à Gare KENITRA - correspondance 23 Min - départ 11h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,10h17,13h10,200 DH,correspondance 1 : 11h57 à Gare KENITRA - correspondance 23 Min - départ 12h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,11h17,14h10,200 DH,correspondance 1 : 12h57 à Gare KENITRA - correspondance 23 Min - départ 13h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,11h51,15h37,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,13h17,16h10,200 DH,correspondance 1 : 14h57 à Gare KENITRA - correspondance 23 Min - départ 15h20,pas de correspondance,pas de correspondance,pas de correspondance
+MEKNES,TANGER,01/08/2024,,,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MIDELT (SUPRAT.),ADDAKHLA SUPRATOURS,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),AGADIR (SUPRAT.),01/08/2024,,,,,,,
+MIDELT (SUPRAT.),BENGUERIR,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),CASA PORT,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),CASA VOYAGEURS,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),EL JADIDA,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),ESSAOUIRA SUPRATOURS,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),FES,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),GUELMIMA,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),KENITRA,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),KHOURIBGA,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),LAAYOUNE SUPRATOURS,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),MARRAKECH,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),MARTIL,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),MEKNES,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),MOHAMMEDIA,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),OUJDA,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),TETOUAN SUPRATOURS,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),RABAT AGDAL,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),RABAT VILLE,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),SAFI,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),SALE,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),SETTAT,01/08/2024,,,,,,,
+MIDELT (SUPRAT.),TANGER,01/08/2024,,,,,,,
+MOHAMMEDIA,ADDAKHLA SUPRATOURS,01/08/2024,17h12,20h30,831 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,AGADIR (SUPRAT.),01/08/2024,09h12,16h14,306 DH,correspondance 1 : 12h14 à Gare MARRAKECH - correspondance 31 Min - départ 12h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,AGADIR (SUPRAT.),01/08/2024,10h12,18h15,306 DH,correspondance 1 : 13h14 à Gare MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,AGADIR (SUPRAT.),01/08/2024,12h12,19h15,321 DH,correspondance 1 : 15h14 à Gare MARRAKECH - correspondance 31 Min - départ 15h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,AGADIR (SUPRAT.),01/08/2024,13h12,20h15,306 DH,correspondance 1 : 16h14 à Gare MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,AGADIR (SUPRAT.),01/08/2024,15h12,22h15,306 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 31 Min - départ 18h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,AGADIR (SUPRAT.),01/08/2024,17h12,00h28,306 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,AGADIR (SUPRAT.),01/08/2024,19h12,02h30,306 DH,correspondance 1 : 22h14 à Gare MARRAKECH - correspondance 31 Min - départ 22h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,BENGUERIR,01/08/2024,,,,,,,
+MOHAMMEDIA,CASA PORT,01/08/2024,07h15,07h40,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,07h49,08h11,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,08h26,08h49,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,08h49,09h10,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,09h22,09h43,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,09h49,10h10,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,10h26,10h49,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,10h49,11h10,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,11h34,11h56,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,11h49,12h10,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA PORT,01/08/2024,,,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,05h50,06h10,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,06h31,06h50,19 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,07h15,08h02,20 DH,correspondance 1 : 07h40 à Gare CASA PORT - correspondance 10 Min - départ 07h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,07h26,07h46,19 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,07h49,08h42,20 DH,correspondance 1 : 08h11 à Gare CASA PORT - correspondance 19 Min - départ 08h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,08h12,08h30,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,08h49,10h02,20 DH,correspondance 1 : 09h10 à Gare CASA PORT - correspondance 40 Min - départ 09h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,09h12,09h30,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,09h49,10h42,20 DH,correspondance 1 : 10h10 à Gare CASA PORT - correspondance 20 Min - départ 10h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,10h49,12h02,20 DH,correspondance 1 : 11h10 à Gare CASA PORT - correspondance 40 Min - départ 11h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,11h49,12h42,20 DH,correspondance 1 : 12h10 à Gare CASA PORT - correspondance 20 Min - départ 12h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,12h49,14h02,20 DH,correspondance 1 : 13h10 à Gare CASA PORT - correspondance 40 Min - départ 13h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,CASA VOYAGEURS,01/08/2024,13h49,14h42,20 DH,correspondance 1 : 14h10 à Gare CASA PORT - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,07h49,10h10,55 DH,correspondance 1 : 08h11 à Gare CASA PORT - correspondance 19 Min - départ 08h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,08h12,10h10,60 DH,correspondance 1 : 08h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 08h44,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,09h49,12h05,55 DH,correspondance 1 : 10h10 à Gare CASA PORT - correspondance 20 Min - départ 10h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,11h49,14h05,55 DH,correspondance 1 : 12h10 à Gare CASA PORT - correspondance 20 Min - départ 12h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,13h49,16h08,55 DH,correspondance 1 : 14h10 à Gare CASA PORT - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,15h49,18h07,55 DH,correspondance 1 : 16h10 à Gare CASA PORT - correspondance 20 Min - départ 16h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,16h49,19h05,55 DH,correspondance 1 : 17h10 à Gare CASA PORT - correspondance 20 Min - départ 17h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,17h12,19h05,60 DH,correspondance 1 : 17h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 17h44,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,17h49,20h10,55 DH,correspondance 1 : 18h10 à Gare CASA PORT - correspondance 20 Min - départ 18h30,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,EL JADIDA,01/08/2024,19h30,21h00,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,ESSAOUIRA SUPRATOURS,01/08/2024,10h12,17h45,271 DH,correspondance 1 : 13h14 à Gare MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,ESSAOUIRA SUPRATOURS,01/08/2024,11h12,17h45,271 DH,correspondance 1 : 14h14 à Gare MARRAKECH - correspondance 31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,ESSAOUIRA SUPRATOURS,01/08/2024,12h12,19h45,271 DH,correspondance 1 : 15h14 à Gare MARRAKECH - correspondance 01h31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,ESSAOUIRA SUPRATOURS,01/08/2024,13h12,19h45,271 DH,correspondance 1 : 16h14 à Gare MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,ESSAOUIRA SUPRATOURS,01/08/2024,15h12,22h00,271 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,05h59,09h27,145 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,06h59,10h33,131 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,07h49,11h17,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,08h49,12h20,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,09h49,13h20,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,10h49,14h20,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,11h49,15h20,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,12h49,16h20,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,13h49,17h22,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,14h49,18h25,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,15h49,19h23,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,16h49,20h25,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,17h49,21h23,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,18h49,22h20,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,19h49,23h20,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,20h49,00h12,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,21h34,01h03,131 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,FES,01/08/2024,21h59,01h27,158 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,GUELMIMA,01/08/2024,,,,,,,
+MOHAMMEDIA,KENITRA,01/08/2024,00h14,01h37,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,05h59,07h08,43 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,06h41,08h01,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,06h59,08h10,43 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,07h31,08h49,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,07h49,08h59,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,07h56,09h09,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,08h31,09h51,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,08h49,09h59,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,08h56,10h07,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,09h31,10h51,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,09h57,11h07,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,10h31,11h51,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,11h31,12h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,12h31,13h51,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,13h31,14h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,14h31,15h51,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,15h31,16h51,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,15h56,17h07,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KENITRA,01/08/2024,16h31,17h51,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KHOURIBGA,01/08/2024,12h12,15h42,57 DH,correspondance 1 : 12h30 à Gare CASA VOYAGEURS - correspondance 40 Min - départ 13h10,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,KHOURIBGA,01/08/2024,18h12,21h51,57 DH,correspondance 1 : 18h30 à Gare CASA VOYAGEURS - correspondance 40 Min - départ 19h10,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,LAAYOUNE SUPRATOURS,01/08/2024,10h12,05h59,651 DH,correspondance 1 : 13h14 à Gare MARRAKECH - correspondance 02h01 Min - départ 15h15,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,LAAYOUNE SUPRATOURS,01/08/2024,11h12,05h59,651 DH,correspondance 1 : 14h14 à Gare MARRAKECH - correspondance 01h01 Min - départ 15h15,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,LAAYOUNE SUPRATOURS,01/08/2024,12h12,06h45,651 DH,correspondance 1 : 15h14 à Gare MARRAKECH - correspondance 01h46 Min - départ 17h00,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,LAAYOUNE SUPRATOURS,01/08/2024,15h12,09h00,651 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,LAAYOUNE SUPRATOURS,01/08/2024,17h12,11h29,651 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,LAAYOUNE SUPRATOURS,01/08/2024,19h12,12h30,651 DH,correspondance 1 : 22h14 à Gare MARRAKECH - correspondance 46 Min - départ 23h00,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,05h50,09h01,157 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,09h12,12h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,10h12,13h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,11h12,14h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,12h12,15h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,13h12,16h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,14h12,17h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,15h12,18h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,16h12,19h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,17h12,20h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,18h12,21h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,19h12,22h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,20h12,23h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARRAKECH,01/08/2024,21h12,00h14,171 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MARTIL,01/08/2024,,,,,,,
+MOHAMMEDIA,MEKNES,01/08/2024,05h59,08h45,108 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,06h59,09h53,108 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,07h49,10h37,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,08h49,11h40,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,09h49,12h37,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,10h49,13h40,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,11h49,14h37,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,12h49,15h40,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,13h49,16h37,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,14h49,17h40,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,15h49,18h40,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,16h49,19h40,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,17h49,20h37,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,18h49,21h40,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,19h49,22h37,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,20h49,23h34,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,21h34,00h25,108 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MEKNES,01/08/2024,21h59,00h47,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+MOHAMMEDIA,OUJDA,01/08/2024,05h59,09h09,136 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,06h59,10h14,123 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,07h49,10h57,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,09h49,13h00,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,11h49,14h58,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,13h49,17h00,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,14h49,18h03,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,15h49,19h01,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,17h49,21h01,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,OUJDA,01/08/2024,19h49,22h58,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TETOUAN SUPRATOURS,01/08/2024,,,,,,,
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,00h14,00h48,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,05h59,06h29,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,06h41,07h20,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,06h59,07h29,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,07h31,08h10,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,07h49,08h19,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,07h56,08h31,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,08h31,09h10,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,08h49,09h19,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,08h56,09h29,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,09h31,10h10,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,09h57,10h27,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,10h02,10h37,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,10h31,11h10,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,10h56,11h31,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,11h31,12h10,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,11h56,12h36,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,12h31,13h10,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,12h56,13h31,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT AGDAL,01/08/2024,13h31,14h10,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,00h14,00h56,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,05h59,06h34,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,06h41,07h25,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,06h59,07h34,28 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,07h31,08h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,07h49,08h24,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,07h56,08h36,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,08h31,09h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,08h49,09h24,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,08h56,09h34,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,09h31,10h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,09h57,10h32,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,10h31,11h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,11h31,12h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,12h31,13h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,13h31,14h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,14h31,15h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,15h31,16h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,15h56,16h34,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,RABAT VILLE,01/08/2024,16h31,17h15,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SAFI,01/08/2024,,,,,,,
+MOHAMMEDIA,SALE,01/08/2024,00h14,01h10,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,05h59,06h46,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,06h41,07h36,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,06h59,07h46,30 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,07h31,08h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,07h49,08h36,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,07h56,08h47,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,08h31,09h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,08h49,09h36,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,08h56,09h45,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,09h31,10h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,09h57,10h44,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,10h31,11h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,11h31,12h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,12h31,13h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,13h31,14h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,14h31,15h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,15h31,16h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,15h56,16h45,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SALE,01/08/2024,16h31,17h26,35 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,05h50,07h10,46 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,07h49,09h58,55 DH,correspondance 1 : 08h11 à Gare CASA PORT - correspondance 29 Min - départ 08h40,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,09h12,10h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,09h49,11h58,55 DH,correspondance 1 : 10h10 à Gare CASA PORT - correspondance 30 Min - départ 10h40,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,10h12,11h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,11h12,12h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,11h49,13h58,55 DH,correspondance 1 : 12h10 à Gare CASA PORT - correspondance 30 Min - départ 12h40,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,12h12,13h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,13h12,14h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,13h49,15h58,55 DH,correspondance 1 : 14h10 à Gare CASA PORT - correspondance 30 Min - départ 14h40,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,14h12,15h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,15h12,16h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,15h49,17h58,55 DH,correspondance 1 : 16h10 à Gare CASA PORT - correspondance 30 Min - départ 16h40,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,16h12,17h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,16h49,18h58,55 DH,correspondance 1 : 17h10 à Gare CASA PORT - correspondance 30 Min - départ 17h40,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,17h12,18h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,18h12,19h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,19h12,20h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,SETTAT,01/08/2024,20h12,21h28,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,00h14,06h19,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,06h41,09h10,235 DH,correspondance 1 : 07h20 à Gare RABAT AGDAL - correspondance 30 Min - départ 07h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,07h31,10h10,235 DH,correspondance 1 : 08h10 à Gare RABAT AGDAL - correspondance 40 Min - départ 08h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,07h56,10h10,235 DH,correspondance 1 : 08h31 à Gare RABAT AGDAL - correspondance 19 Min - départ 08h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,08h31,11h10,217 DH,correspondance 1 : 09h51 à Gare KENITRA - correspondance 29 Min - départ 10h20,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,08h49,13h47,128 DH,correspondance 1 : 09h59 à Gare KENITRA - correspondance 26 Min - départ 10h25,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,08h56,11h10,235 DH,correspondance 1 : 09h29 à Gare RABAT AGDAL - correspondance 21 Min - départ 09h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,09h31,12h10,235 DH,correspondance 1 : 10h10 à Gare RABAT AGDAL - correspondance 40 Min - départ 10h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,10h31,13h10,235 DH,correspondance 1 : 11h10 à Gare RABAT AGDAL - correspondance 40 Min - départ 11h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,11h31,14h10,217 DH,correspondance 1 : 12h48 à Gare KENITRA - correspondance 32 Min - départ 13h20,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,12h31,17h39,128 DH,correspondance 1 : 13h51 à Gare KENITRA - correspondance 34 Min - départ 14h25,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,13h31,16h10,235 DH,correspondance 1 : 14h10 à Gare RABAT AGDAL - correspondance 40 Min - départ 14h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,13h56,16h10,235 DH,correspondance 1 : 14h36 à Gare RABAT AGDAL - correspondance 14 Min - départ 14h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,14h31,17h10,235 DH,correspondance 1 : 15h10 à Gare RABAT AGDAL - correspondance 40 Min - départ 15h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,15h31,18h10,235 DH,correspondance 1 : 16h10 à Gare RABAT AGDAL - correspondance 40 Min - départ 16h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,15h56,18h10,235 DH,correspondance 1 : 16h29 à Gare RABAT AGDAL - correspondance 21 Min - départ 16h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,16h31,19h10,235 DH,correspondance 1 : 17h10 à Gare RABAT AGDAL - correspondance 40 Min - départ 17h50,pas de correspondance,pas de correspondance,pas de correspondance
+MOHAMMEDIA,TANGER,01/08/2024,16h56,19h10,235 DH,correspondance 1 : 17h29 à Gare RABAT AGDAL - correspondance 21 Min - départ 17h50,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,ADDAKHLA SUPRATOURS,01/08/2024,13h54,20h30,885 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,AGADIR (SUPRAT.),01/08/2024,05h54,16h14,360 DH,correspondance 1 : 12h14 à Gare MARRAKECH - correspondance 31 Min - départ 12h45,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,AGADIR (SUPRAT.),01/08/2024,09h54,20h15,341 DH,correspondance 1 : 16h14 à Gare MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,AGADIR (SUPRAT.),01/08/2024,11h54,22h15,360 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 31 Min - départ 18h45,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,AGADIR (SUPRAT.),01/08/2024,13h54,00h28,360 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,AGADIR (SUPRAT.),01/08/2024,15h54,02h30,360 DH,correspondance 1 : 22h14 à Gare MARRAKECH - correspondance 31 Min - départ 22h45,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,05h54,11h30,182 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,07h54,13h30,182 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,09h54,15h30,182 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,11h54,17h30,198 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,13h54,19h30,198 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,15h54,21h30,198 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,16h54,22h30,182 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,BENGUERIR,01/08/2024,17h53,23h30,182 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA PORT,01/08/2024,,,,,,,
+OUJDA,CASA VOYAGEURS,01/08/2024,05h54,09h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA VOYAGEURS,01/08/2024,07h54,11h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA VOYAGEURS,01/08/2024,09h54,13h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA VOYAGEURS,01/08/2024,11h54,15h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA VOYAGEURS,01/08/2024,13h54,17h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA VOYAGEURS,01/08/2024,15h54,19h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA VOYAGEURS,01/08/2024,16h54,20h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,CASA VOYAGEURS,01/08/2024,17h53,21h30,156 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,EL JADIDA,01/08/2024,13h54,19h05,196 DH,correspondance 1 : 17h30 à Gare CASA VOYAGEURS - correspondance 14 Min - départ 17h44,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,EL JADIDA,01/08/2024,15h54,21h00,196 DH,correspondance 1 : 19h30 à Gare CASA VOYAGEURS - correspondance 21 Min - départ 19h51,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,ESSAOUIRA SUPRATOURS,01/08/2024,07h54,17h45,325 DH,correspondance 1 : 14h14 à Gare MARRAKECH - correspondance 31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,ESSAOUIRA SUPRATOURS,01/08/2024,09h54,19h45,306 DH,correspondance 1 : 16h14 à Gare MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,ESSAOUIRA SUPRATOURS,01/08/2024,11h54,22h00,325 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,07h46,08h01,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,09h10,09h27,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,10h15,10h33,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,10h58,11h17,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,11h41,11h57,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,13h01,13h20,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,14h59,15h20,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,15h35,15h51,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,17h01,17h22,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,18h04,18h25,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,18h35,18h51,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,19h02,19h23,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,FES,01/08/2024,21h02,21h23,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,GUELMIMA,01/08/2024,,,,,,,
+OUJDA,KENITRA,01/08/2024,05h54,07h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KENITRA,01/08/2024,07h54,09h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KENITRA,01/08/2024,09h54,11h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KENITRA,01/08/2024,11h54,13h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KENITRA,01/08/2024,13h54,15h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KENITRA,01/08/2024,15h54,17h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KENITRA,01/08/2024,16h54,18h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KENITRA,01/08/2024,17h53,19h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,KHOURIBGA,01/08/2024,11h30,18h03,193 DH,correspondance 1 : 14h17 à Gare CASA VOYAGEURS - correspondance 13 Min - départ 14h30,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,LAAYOUNE SUPRATOURS,01/08/2024,07h54,05h59,705 DH,correspondance 1 : 14h14 à Gare MARRAKECH - correspondance 01h01 Min - départ 15h15,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,LAAYOUNE SUPRATOURS,01/08/2024,11h54,09h00,705 DH,correspondance 1 : 18h14 à Gare MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,LAAYOUNE SUPRATOURS,01/08/2024,13h54,11h29,705 DH,correspondance 1 : 20h14 à Gare MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,LAAYOUNE SUPRATOURS,01/08/2024,15h54,12h30,705 DH,correspondance 1 : 22h14 à Gare MARRAKECH - correspondance 46 Min - départ 23h00,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,05h54,12h14,225 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,07h54,14h14,225 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,09h54,16h14,206 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,11h54,18h14,225 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,13h54,20h14,225 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,15h54,22h14,225 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,16h54,23h14,225 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARRAKECH,01/08/2024,17h53,00h14,206 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MARTIL,01/08/2024,13h54,19h00,268 DH,correspondance 1 : 15h57 à Gare KENITRA - correspondance 23 Min - départ 16h20,correspondance 2 : 17h10 à Gare TANGER VILLE - correspondance 20 Min - départ 17h30,pas de correspondance,pas de correspondance
+OUJDA,MARTIL,01/08/2024,15h54,21h00,268 DH,correspondance 1 : 17h57 à Gare KENITRA - correspondance 23 Min - départ 18h20,correspondance 2 : 19h10 à Gare TANGER VILLE - correspondance 20 Min - départ 19h30,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,05h54,06h15,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,06h23,06h46,25 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,07h13,07h34,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,07h54,08h15,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,09h54,10h15,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,11h27,11h49,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,11h54,12h15,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,13h54,14h15,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,14h13,14h35,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,15h54,16h15,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,16h54,17h15,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,17h53,18h16,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MEKNES,01/08/2024,18h13,18h35,27 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+OUJDA,MOHAMMEDIA,01/08/2024,05h54,09h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MOHAMMEDIA,01/08/2024,07h54,11h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MOHAMMEDIA,01/08/2024,09h54,13h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MOHAMMEDIA,01/08/2024,11h54,15h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MOHAMMEDIA,01/08/2024,13h54,17h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MOHAMMEDIA,01/08/2024,15h54,19h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MOHAMMEDIA,01/08/2024,16h54,20h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,MOHAMMEDIA,01/08/2024,17h53,21h10,148 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TETOUAN SUPRATOURS,01/08/2024,13h54,18h29,263 DH,correspondance 1 : 15h57 à Gare KENITRA - correspondance 23 Min - départ 16h20,correspondance 2 : 17h10 à Gare TANGER VILLE - correspondance 20 Min - départ 17h30,pas de correspondance,pas de correspondance
+OUJDA,TETOUAN SUPRATOURS,01/08/2024,15h54,20h09,263 DH,correspondance 1 : 17h57 à Gare KENITRA - correspondance 23 Min - départ 18h20,correspondance 2 : 19h10 à Gare TANGER VILLE - correspondance 20 Min - départ 19h30,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,05h54,08h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,07h54,10h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,09h54,12h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,11h54,14h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,13h54,16h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,15h54,18h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,16h54,19h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT AGDAL,01/08/2024,17h53,20h38,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,05h54,08h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,07h54,10h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,09h54,12h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,11h54,14h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,13h54,16h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,15h54,18h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,16h54,19h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,RABAT VILLE,01/08/2024,17h53,20h32,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SAFI,01/08/2024,,,,,,,
+OUJDA,SALE,01/08/2024,05h54,08h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SALE,01/08/2024,07h54,10h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SALE,01/08/2024,09h54,12h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SALE,01/08/2024,11h54,14h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SALE,01/08/2024,13h54,16h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SALE,01/08/2024,15h54,18h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SALE,01/08/2024,16h54,19h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SALE,01/08/2024,17h53,20h21,111 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,05h54,10h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,07h54,12h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,09h54,14h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,11h54,16h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,13h54,18h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,15h54,20h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,16h54,21h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,SETTAT,01/08/2024,17h53,22h28,191 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,05h54,09h10,208 DH,correspondance 1 : 07h57 à Gare KENITRA - correspondance 23 Min - départ 08h20,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,07h54,11h10,208 DH,correspondance 1 : 09h57 à Gare KENITRA - correspondance 23 Min - départ 10h20,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,09h54,13h10,208 DH,correspondance 1 : 11h57 à Gare KENITRA - correspondance 23 Min - départ 12h20,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,11h27,15h37,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,13h54,17h10,208 DH,correspondance 1 : 15h57 à Gare KENITRA - correspondance 23 Min - départ 16h20,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,14h13,18h40,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,15h54,19h10,208 DH,correspondance 1 : 17h57 à Gare KENITRA - correspondance 23 Min - départ 18h20,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,16h54,20h10,208 DH,correspondance 1 : 18h57 à Gare KENITRA - correspondance 23 Min - départ 19h20,pas de correspondance,pas de correspondance,pas de correspondance
+OUJDA,TANGER,01/08/2024,18h13,22h41,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance

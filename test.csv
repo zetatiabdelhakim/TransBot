@@ -1,0 +1,26 @@
+gare de depart,gare d'arrivee,date de voyage,heure de depart,heure d'arrivee,prix,correspondance 1,correspondance 2,correspondance 3,correspondance 4
+SETTAT,TANGER,01/08/2024,06h15,10h10,260 DH,correspondance 1 : 07h13 à Gare CASA VOYAGEURS - correspondance 47 Min - départ 08h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,06h39,10h10,257 DH,correspondance 1 : 07h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 08h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,07h39,11h10,260 DH,correspondance 1 : 08h28 à Gare CASA VOYAGEURS - correspondance 32 Min - départ 09h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,08h15,12h10,260 DH,correspondance 1 : 09h15 à Gare CASA VOYAGEURS - correspondance 45 Min - départ 10h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,10h15,14h10,240 DH,correspondance 1 : 11h13 à Gare CASA VOYAGEURS - correspondance 47 Min - départ 12h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,11h39,17h39,175 DH,correspondance 1 : 13h59 à Gare KENITRA - correspondance 26 Min - départ 14h25,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,12h15,16h10,260 DH,correspondance 1 : 13h13 à Gare CASA VOYAGEURS - correspondance 47 Min - départ 14h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,14h15,18h10,240 DH,correspondance 1 : 15h07 à Gare CASA VOYAGEURS - correspondance 53 Min - départ 16h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,15h39,21h41,159 DH,correspondance 1 : 17h59 à Gare KENITRA - correspondance 26 Min - départ 18h25,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,16h10,20h10,240 DH,correspondance 1 : 17h10 à Gare CASA VOYAGEURS - correspondance 50 Min - départ 18h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,18h15,22h10,260 DH,correspondance 1 : 19h15 à Gare CASA VOYAGEURS - correspondance 45 Min - départ 20h00,pas de correspondance,pas de correspondance,pas de correspondance
+SETTAT,TANGER,01/08/2024,22h49,06h19,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,06h00,09h58,240 DH,correspondance 1 : 08h10 à Gare CASA VOYAGEURS - correspondance 43 Min - départ 08h53,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,06h35,12h28,175 DH,correspondance 1 : 09h42 à Gare KENITRA - correspondance 18 Min - départ 10h00,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,07h00,10h28,240 DH,correspondance 1 : 09h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 09h35,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,07h30,14h28,177 DH,correspondance 1 : 10h26 à Gare SIDI KACEM - correspondance 38 Min - départ 11h04,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,08h00,11h58,240 DH,correspondance 1 : 10h10 à Gare CASA VOYAGEURS - correspondance 43 Min - départ 10h53,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,09h35,15h28,159 DH,correspondance 1 : 12h42 à Gare KENITRA - correspondance 18 Min - départ 13h00,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,10h00,13h58,260 DH,correspondance 1 : 12h10 à Gare CASA VOYAGEURS - correspondance 43 Min - départ 12h53,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,11h35,18h28,198 DH,correspondance 1 : 14h22 à Gare SIDI KACEM - correspondance 42 Min - départ 15h04,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,12h00,15h58,240 DH,correspondance 1 : 14h10 à Gare CASA VOYAGEURS - correspondance 43 Min - départ 14h53,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,14h00,17h58,260 DH,correspondance 1 : 16h10 à Gare CASA VOYAGEURS - correspondance 43 Min - départ 16h53,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,14h25,21h28,191 DH,correspondance 1 : 17h21 à Gare SIDI KACEM - correspondance 43 Min - départ 18h04,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,15h00,18h28,240 DH,correspondance 1 : 17h10 à Gare CASA VOYAGEURS - correspondance 25 Min - départ 17h35,pas de correspondance,pas de correspondance,pas de correspondance
+TANGER,SETTAT,01/08/2024,16h20,23h28,159 DH,correspondance 1 : 19h41 à Gare KENITRA - correspondance 01h19 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance

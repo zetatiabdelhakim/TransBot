@@ -1,0 +1,400 @@
+gare de depart,gare d'arrivee,date de voyage,heure de depart,heure d'arrivee,prix,correspondance 1,correspondance 2,correspondance 3,correspondance 4
+GUELMIMA,ADDAKHLA SUPRATOURS,01/08/2024,,,,,,,
+GUELMIMA,AGADIR (SUPRAT.),01/08/2024,,,,,,,
+GUELMIMA,BENGUERIR,01/08/2024,,,,,,,
+GUELMIMA,CASA PORT,01/08/2024,,,,,,,
+GUELMIMA,CASA VOYAGEURS,01/08/2024,,,,,,,
+GUELMIMA,EL JADIDA,01/08/2024,,,,,,,
+GUELMIMA,ESSAOUIRA SUPRATOURS,01/08/2024,,,,,,,
+GUELMIMA,FES,01/08/2024,,,,,,,
+GUELMIMA,KENITRA,01/08/2024,,,,,,,
+GUELMIMA,KHOURIBGA,01/08/2024,,,,,,,
+GUELMIMA,LAAYOUNE SUPRATOURS,01/08/2024,,,,,,,
+GUELMIMA,MARRAKECH,01/08/2024,,,,,,,
+GUELMIMA,MARTIL,01/08/2024,,,,,,,
+GUELMIMA,MEKNES,01/08/2024,,,,,,,
+GUELMIMA,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+GUELMIMA,MOHAMMEDIA,01/08/2024,,,,,,,
+GUELMIMA,OUJDA,01/08/2024,,,,,,,
+GUELMIMA,TETOUAN SUPRATOURS,01/08/2024,,,,,,,
+GUELMIMA,RABAT AGDAL,01/08/2024,,,,,,,
+GUELMIMA,RABAT VILLE,01/08/2024,,,,,,,
+GUELMIMA,SAFI,01/08/2024,,,,,,,
+GUELMIMA,SALE,01/08/2024,,,,,,,
+GUELMIMA,SETTAT,01/08/2024,,,,,,,
+GUELMIMA,TANGER,01/08/2024,,,,,,,
+KENITRA,ADDAKHLA SUPRATOURS,01/08/2024,,,,,,,
+KENITRA,AGADIR (SUPRAT.),01/08/2024,07h53,16h14,375 DH,correspondance 1 : 09h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 09h35,correspondance 2 : 12h14 à Station MARRAKECH - correspondance 31 Min - départ 12h45,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,08h00,16h14,350 DH,correspondance 1 : 12h14 à Station MARRAKECH - correspondance 31 Min - départ 12h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,08h53,18h15,375 DH,correspondance 1 : 10h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 10h35,correspondance 2 : 13h14 à Station MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,09h00,18h15,350 DH,correspondance 1 : 13h14 à Station MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,11h00,19h15,365 DH,correspondance 1 : 15h14 à Station MARRAKECH - correspondance 31 Min - départ 15h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,11h53,20h15,375 DH,correspondance 1 : 13h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 13h35,correspondance 2 : 16h14 à Station MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,12h00,20h15,350 DH,correspondance 1 : 16h14 à Station MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,14h00,22h15,350 DH,correspondance 1 : 18h14 à Station MARRAKECH - correspondance 31 Min - départ 18h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,15h53,00h28,375 DH,correspondance 1 : 17h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 17h35,correspondance 2 : 20h14 à Station MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,16h00,00h28,350 DH,correspondance 1 : 20h14 à Station MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,17h53,02h30,375 DH,correspondance 1 : 19h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 19h35,correspondance 2 : 22h14 à Station MARRAKECH - correspondance 31 Min - départ 22h45,pas de correspondance,pas de correspondance
+KENITRA,AGADIR (SUPRAT.),01/08/2024,18h00,02h30,350 DH,correspondance 1 : 22h14 à Station MARRAKECH - correspondance 31 Min - départ 22h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,04h28,08h16,162 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,07h53,11h30,165 DH,correspondance 1 : 09h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 09h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,08h00,11h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,08h53,12h30,193 DH,correspondance 1 : 10h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 10h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,09h00,12h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,09h53,13h30,193 DH,correspondance 1 : 11h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 11h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,10h00,13h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,11h00,14h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,11h53,15h30,193 DH,correspondance 1 : 13h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 13h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,12h00,15h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,12h53,16h30,193 DH,correspondance 1 : 14h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 14h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,13h00,16h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,14h00,17h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,14h53,18h30,193 DH,correspondance 1 : 16h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 16h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,15h00,18h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,15h53,19h30,165 DH,correspondance 1 : 17h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 17h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,16h00,19h30,135 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,16h53,20h30,193 DH,correspondance 1 : 18h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 18h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,BENGUERIR,01/08/2024,17h00,20h30,177 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,05h57,07h40,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,06h30,08h11,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,07h07,08h49,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,07h30,09h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,08h07,09h43,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,08h30,10h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,09h07,10h49,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,09h30,11h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,10h30,12h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,11h30,13h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,12h30,14h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,13h30,15h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,14h30,16h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,15h30,17h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,16h07,17h49,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,16h30,18h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,17h07,18h49,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,17h30,19h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,18h07,19h43,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA PORT,01/08/2024,18h30,20h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,04h28,06h10,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,05h14,06h50,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,05h57,08h02,55 DH,correspondance 1 : 07h40 à Station CASA PORT - correspondance 10 Min - départ 07h50,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,06h08,07h46,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,06h30,08h42,55 DH,correspondance 1 : 08h11 à Station CASA PORT - correspondance 19 Min - départ 08h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,06h53,08h10,80 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,07h30,10h02,55 DH,correspondance 1 : 09h10 à Station CASA PORT - correspondance 40 Min - départ 09h50,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,07h53,09h10,80 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,08h00,09h30,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,08h30,10h42,55 DH,correspondance 1 : 10h10 à Station CASA PORT - correspondance 20 Min - départ 10h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,08h53,10h10,80 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,09h00,10h30,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,09h30,12h02,55 DH,correspondance 1 : 11h10 à Station CASA PORT - correspondance 40 Min - départ 11h50,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,09h53,11h10,80 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,CASA VOYAGEURS,01/08/2024,10h00,11h30,55 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,06h30,10h10,95 DH,correspondance 1 : 08h11 à Station CASA PORT - correspondance 19 Min - départ 08h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,06h53,10h10,120 DH,correspondance 1 : 08h10 à Station CASA VOYAGEURS - correspondance 34 Min - départ 08h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,08h30,12h05,95 DH,correspondance 1 : 10h10 à Station CASA PORT - correspondance 20 Min - départ 10h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,08h53,12h05,120 DH,correspondance 1 : 10h10 à Station CASA VOYAGEURS - correspondance 34 Min - départ 10h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,09h00,12h05,95 DH,correspondance 1 : 10h30 à Station CASA VOYAGEURS - correspondance 14 Min - départ 10h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,10h30,14h05,95 DH,correspondance 1 : 12h10 à Station CASA PORT - correspondance 20 Min - départ 12h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,10h53,14h05,120 DH,correspondance 1 : 12h10 à Station CASA VOYAGEURS - correspondance 34 Min - départ 12h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,11h00,14h05,95 DH,correspondance 1 : 12h30 à Station CASA VOYAGEURS - correspondance 14 Min - départ 12h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,12h30,16h08,95 DH,correspondance 1 : 14h10 à Station CASA PORT - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,12h53,16h08,120 DH,correspondance 1 : 14h10 à Station CASA VOYAGEURS - correspondance 34 Min - départ 14h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,13h00,16h08,95 DH,correspondance 1 : 14h30 à Station CASA VOYAGEURS - correspondance 14 Min - départ 14h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,14h30,18h07,95 DH,correspondance 1 : 16h10 à Station CASA PORT - correspondance 20 Min - départ 16h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,14h53,18h07,120 DH,correspondance 1 : 16h10 à Station CASA VOYAGEURS - correspondance 34 Min - départ 16h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,15h00,18h07,95 DH,correspondance 1 : 16h30 à Station CASA VOYAGEURS - correspondance 14 Min - départ 16h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,15h30,19h05,95 DH,correspondance 1 : 17h10 à Station CASA PORT - correspondance 20 Min - départ 17h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,15h53,19h05,120 DH,correspondance 1 : 17h10 à Station CASA VOYAGEURS - correspondance 34 Min - départ 17h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,16h00,19h05,95 DH,correspondance 1 : 17h30 à Station CASA VOYAGEURS - correspondance 14 Min - départ 17h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,16h30,20h10,95 DH,correspondance 1 : 18h10 à Station CASA PORT - correspondance 20 Min - départ 18h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,EL JADIDA,01/08/2024,16h53,20h10,120 DH,correspondance 1 : 18h10 à Station CASA VOYAGEURS - correspondance 34 Min - départ 18h44,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,08h53,17h45,340 DH,correspondance 1 : 10h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 10h35,correspondance 2 : 13h14 à Station MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,09h00,17h45,315 DH,correspondance 1 : 13h14 à Station MARRAKECH - correspondance 01h31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,09h53,17h45,340 DH,correspondance 1 : 11h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 11h35,correspondance 2 : 14h14 à Station MARRAKECH - correspondance 31 Min - départ 14h45,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,10h00,17h45,315 DH,correspondance 1 : 14h14 à Station MARRAKECH - correspondance 31 Min - départ 14h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,11h00,19h45,315 DH,correspondance 1 : 15h14 à Station MARRAKECH - correspondance 01h31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,11h53,19h45,340 DH,correspondance 1 : 13h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 13h35,correspondance 2 : 16h14 à Station MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,12h00,19h45,315 DH,correspondance 1 : 16h14 à Station MARRAKECH - correspondance 31 Min - départ 16h45,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,ESSAOUIRA SUPRATOURS,01/08/2024,14h00,22h00,315 DH,correspondance 1 : 18h14 à Station MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,07h10,09h27,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,08h13,10h33,90 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,09h02,11h17,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,10h02,12h20,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,11h02,13h20,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,12h02,14h20,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,13h02,15h20,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,14h02,16h20,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,15h02,17h22,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,16h02,18h25,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,17h02,19h23,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,18h02,20h25,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,19h02,21h23,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,20h02,22h20,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,21h02,23h20,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,22h02,00h12,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,22h49,01h03,90 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,FES,01/08/2024,23h12,01h27,110 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,GUELMIMA,01/08/2024,,,,,,,
+KENITRA,KHOURIBGA,01/08/2024,,,,,,,
+KENITRA,LAAYOUNE SUPRATOURS,01/08/2024,14h00,09h00,695 DH,correspondance 1 : 18h14 à Station MARRAKECH - correspondance 46 Min - départ 19h00,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,LAAYOUNE SUPRATOURS,01/08/2024,15h53,11h29,720 DH,correspondance 1 : 17h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 17h35,correspondance 2 : 20h14 à Station MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance
+KENITRA,LAAYOUNE SUPRATOURS,01/08/2024,16h00,11h29,695 DH,correspondance 1 : 20h14 à Station MARRAKECH - correspondance 46 Min - départ 21h00,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,LAAYOUNE SUPRATOURS,01/08/2024,17h53,12h30,720 DH,correspondance 1 : 19h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 19h35,correspondance 2 : 22h14 à Station MARRAKECH - correspondance 46 Min - départ 23h00,pas de correspondance,pas de correspondance
+KENITRA,LAAYOUNE SUPRATOURS,01/08/2024,18h00,12h30,695 DH,correspondance 1 : 22h14 à Station MARRAKECH - correspondance 46 Min - départ 23h00,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,04h28,09h01,195 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,07h53,12h14,240 DH,correspondance 1 : 09h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 09h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,08h00,12h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,08h53,13h14,240 DH,correspondance 1 : 10h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 10h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,09h00,13h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,09h53,14h14,240 DH,correspondance 1 : 11h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 11h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,10h00,14h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,11h00,15h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,11h53,16h14,240 DH,correspondance 1 : 13h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 13h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,12h00,16h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,12h53,17h14,240 DH,correspondance 1 : 14h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 14h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,13h00,17h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,14h00,18h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,14h53,19h14,240 DH,correspondance 1 : 16h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 16h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,15h00,19h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,15h53,20h14,240 DH,correspondance 1 : 17h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 17h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,16h00,20h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,16h53,21h14,240 DH,correspondance 1 : 18h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 18h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARRAKECH,01/08/2024,17h00,21h14,215 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,07h20,10h00,215 DH,correspondance 1 : 08h10 à Station TANGER VILLE - correspondance 20 Min - départ 08h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,09h20,12h00,230 DH,correspondance 1 : 10h10 à Station TANGER VILLE - correspondance 20 Min - départ 10h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,10h20,13h00,230 DH,correspondance 1 : 11h10 à Station TANGER VILLE - correspondance 20 Min - départ 11h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,11h20,14h00,230 DH,correspondance 1 : 12h10 à Station TANGER VILLE - correspondance 20 Min - départ 12h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,13h20,16h00,230 DH,correspondance 1 : 14h10 à Station TANGER VILLE - correspondance 20 Min - départ 14h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,15h20,18h00,230 DH,correspondance 1 : 16h10 à Station TANGER VILLE - correspondance 20 Min - départ 16h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,16h20,19h00,230 DH,correspondance 1 : 17h10 à Station TANGER VILLE - correspondance 20 Min - départ 17h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,18h20,21h00,230 DH,correspondance 1 : 19h10 à Station TANGER VILLE - correspondance 20 Min - départ 19h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MARTIL,01/08/2024,20h20,23h00,230 DH,correspondance 1 : 21h10 à Station TANGER VILLE - correspondance 20 Min - départ 21h30,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,07h10,08h45,65 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,08h13,09h53,65 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,09h02,10h37,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,10h02,11h40,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,11h02,12h37,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,12h02,13h40,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,13h02,14h37,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,14h02,15h40,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,15h02,16h37,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,16h02,17h40,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,17h02,18h40,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,18h02,19h40,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,19h02,20h37,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,20h02,21h40,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,21h02,22h37,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,22h02,23h34,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,22h49,00h25,65 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MEKNES,01/08/2024,23h12,00h47,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+KENITRA,MOHAMMEDIA,01/08/2024,04h28,05h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,05h14,06h29,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,05h57,07h14,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,06h08,07h24,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,06h30,07h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,07h00,08h10,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,07h07,08h25,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,07h30,08h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,08h07,09h21,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,08h30,09h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,09h00,10h10,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,09h07,10h25,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,09h30,10h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,10h00,11h10,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,10h30,11h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,11h00,12h10,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,11h30,12h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,12h00,13h10,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,12h30,13h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,13h00,14h10,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,MOHAMMEDIA,01/08/2024,13h30,14h48,47 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,07h10,09h09,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,08h13,10h14,78 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,09h02,10h57,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,11h02,13h00,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,13h02,14h58,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,15h02,17h00,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,16h02,18h03,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,17h02,19h01,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,19h02,21h01,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,OUJDA,01/08/2024,21h02,22h58,94 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TETOUAN SUPRATOURS,01/08/2024,,,,,,,
+KENITRA,RABAT AGDAL,01/08/2024,04h28,05h13,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,05h14,05h55,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,05h57,06h34,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,06h08,06h46,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,06h30,07h08,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,07h00,07h38,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,07h07,07h45,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,07h30,08h08,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,08h00,08h38,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,08h07,08h45,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,08h30,09h08,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,09h00,09h38,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,09h07,09h45,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,09h30,10h08,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,10h00,10h38,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,10h30,11h08,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,11h30,12h08,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,12h00,12h38,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,12h30,13h08,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT AGDAL,01/08/2024,13h00,13h38,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,04h28,05h06,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,05h14,05h49,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,05h57,06h29,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,06h08,06h40,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,06h30,07h03,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,07h00,07h32,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,07h07,07h40,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,07h30,08h03,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,08h00,08h32,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,08h07,08h40,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,08h30,09h03,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,09h00,09h32,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,09h07,09h40,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,09h30,10h03,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,10h00,10h32,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,10h30,11h03,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,11h00,11h32,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,11h30,12h03,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,12h00,12h32,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,RABAT VILLE,01/08/2024,12h30,13h03,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SAFI,01/08/2024,,,,,,,
+KENITRA,SALE,01/08/2024,04h28,04h54,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,05h14,05h38,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,05h57,06h19,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,06h08,06h29,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,06h30,06h53,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,07h00,07h21,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,07h07,07h30,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,07h30,07h53,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,08h00,08h21,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,08h07,08h30,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,08h30,08h53,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,09h00,09h21,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,09h07,09h30,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,09h30,09h53,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,10h00,10h21,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,10h30,10h53,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,11h00,11h21,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,11h30,11h53,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,12h00,12h21,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SALE,01/08/2024,12h30,12h53,20 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,04h28,07h10,86 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,06h30,09h58,90 DH,correspondance 1 : 08h11 à Station CASA PORT - correspondance 29 Min - départ 08h40,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,06h53,09h58,115 DH,correspondance 1 : 08h10 à Station CASA VOYAGEURS - correspondance 43 Min - départ 08h53,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,07h00,09h28,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,07h53,10h28,125 DH,correspondance 1 : 09h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 09h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,08h00,10h28,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,08h30,11h58,90 DH,correspondance 1 : 10h10 à Station CASA PORT - correspondance 30 Min - départ 10h40,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,08h53,11h28,125 DH,correspondance 1 : 10h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 10h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,09h00,11h28,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,09h53,12h28,125 DH,correspondance 1 : 11h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 11h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,10h00,12h28,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,10h30,13h58,90 DH,correspondance 1 : 12h10 à Station CASA PORT - correspondance 30 Min - départ 12h40,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,10h53,13h58,115 DH,correspondance 1 : 12h10 à Station CASA VOYAGEURS - correspondance 43 Min - départ 12h53,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,11h00,13h28,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,11h53,14h28,125 DH,correspondance 1 : 13h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 13h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,12h00,14h28,113 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,12h30,15h58,90 DH,correspondance 1 : 14h10 à Station CASA PORT - correspondance 30 Min - départ 14h40,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,SETTAT,01/08/2024,12h53,15h28,125 DH,correspondance 1 : 14h10 à Station CASA VOYAGEURS - correspondance 25 Min - départ 14h35,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,01h42,06h19,90 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,07h20,08h10,130 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,08h20,09h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,09h20,10h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,10h02,15h37,90 DH,correspondance 1 : 10h52 à Station SIDI KACEM - correspondance 01h50 Min - départ 12h42,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,10h20,11h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,10h25,13h47,81 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,11h20,12h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,12h20,13h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,13h20,14h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,14h25,17h39,81 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,15h20,16h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,16h20,17h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,17h20,18h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,18h20,19h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,18h25,21h41,81 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,19h20,20h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,20h20,21h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KENITRA,TANGER,01/08/2024,21h20,22h10,170 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+KHOURIBGA,ADDAKHLA SUPRATOURS,01/08/2024,,,,,,,
+KHOURIBGA,AGADIR (SUPRAT.),01/08/2024,,,,,,,
+KHOURIBGA,BENGUERIR,01/08/2024,,,,,,,
+KHOURIBGA,CASA PORT,01/08/2024,,,,,,,
+KHOURIBGA,CASA VOYAGEURS,01/08/2024,,,,,,,
+KHOURIBGA,EL JADIDA,01/08/2024,,,,,,,
+KHOURIBGA,ESSAOUIRA SUPRATOURS,01/08/2024,,,,,,,
+KHOURIBGA,FES,01/08/2024,,,,,,,
+KHOURIBGA,GUELMIMA,01/08/2024,,,,,,,
+KHOURIBGA,KENITRA,01/08/2024,,,,,,,
+KHOURIBGA,LAAYOUNE SUPRATOURS,01/08/2024,,,,,,,
+KHOURIBGA,MARRAKECH,01/08/2024,,,,,,,
+KHOURIBGA,MARTIL,01/08/2024,,,,,,,
+KHOURIBGA,MEKNES,01/08/2024,,,,,,,
+KHOURIBGA,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+KHOURIBGA,MOHAMMEDIA,01/08/2024,,,,,,,
+KHOURIBGA,OUJDA,01/08/2024,,,,,,,
+KHOURIBGA,TETOUAN SUPRATOURS,01/08/2024,,,,,,,
+KHOURIBGA,RABAT AGDAL,01/08/2024,,,,,,,
+KHOURIBGA,RABAT VILLE,01/08/2024,,,,,,,
+KHOURIBGA,SAFI,01/08/2024,,,,,,,
+KHOURIBGA,SALE,01/08/2024,,,,,,,
+KHOURIBGA,SETTAT,01/08/2024,,,,,,,
+KHOURIBGA,TANGER,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,ADDAKHLA SUPRATOURS,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,AGADIR (SUPRAT.),01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,BENGUERIR,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,CASA PORT,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,CASA VOYAGEURS,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,EL JADIDA,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,ESSAOUIRA SUPRATOURS,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,FES,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,GUELMIMA,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,KENITRA,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,KHOURIBGA,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,LAAYOUNE SUPRATOURS,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,MARRAKECH,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,MARTIL,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,MEKNES,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,MOHAMMEDIA,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,OUJDA,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,TETOUAN SUPRATOURS,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,RABAT AGDAL,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,RABAT VILLE,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,SAFI,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,SALE,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,SETTAT,01/08/2024,,,,,,,
+LAAYOUNE SUPRATOURS,TANGER,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,ADDAKHLA SUPRATOURS,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,AGADIR (SUPRAT.),01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,BENGUERIR,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,CASA PORT,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,CASA VOYAGEURS,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,EL JADIDA,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,FES,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,GUELMIMA,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,KENITRA,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,KHOURIBGA,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,LAAYOUNE SUPRATOURS,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,MARRAKECH,01/08/2024,07h00,10h00,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+ESSAOUIRA SUPRATOURS,MARRAKECH,01/08/2024,09h15,12h15,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+ESSAOUIRA SUPRATOURS,MARRAKECH,01/08/2024,11h15,14h15,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+ESSAOUIRA SUPRATOURS,MARRAKECH,01/08/2024,14h15,17h15,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+ESSAOUIRA SUPRATOURS,MARRAKECH,01/08/2024,15h30,18h30,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+ESSAOUIRA SUPRATOURS,MARRAKECH,01/08/2024,17h00,20h00,125 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+ESSAOUIRA SUPRATOURS,MARRAKECH,01/08/2024,18h15,21h15,100 DH,pas de correspondance,pas de correspondance,pas de correspondance,pas de correspondance
+ESSAOUIRA SUPRATOURS,MARTIL,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,MEKNES,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,MIDELT (SUPRAT.),01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,MOHAMMEDIA,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,OUJDA,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,TETOUAN SUPRATOURS,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,RABAT AGDAL,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,RABAT VILLE,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,SAFI,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,SALE,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,SETTAT,01/08/2024,,,,,,,
+ESSAOUIRA SUPRATOURS,TANGER,01/08/2024,,,,,,,
